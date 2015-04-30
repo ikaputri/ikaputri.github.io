@@ -167,7 +167,7 @@ a:hover {
 }
 .copyright {
 	color: #FFF4F4;
-	background: rgba(57,229,57, 1);
+	background: rgba(33, 119, 33, 1);
 	padding: 20px 0;
 }
 #top {
@@ -753,7 +753,7 @@ img, video, iframe, embed, object {
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
-	color: rgba(57,229,57, 1);
+	color: rgba(33, 119, 33, 1);
 }
 #aboutUs p{
 color: #212C29;
@@ -928,7 +928,7 @@ footer {
 .social a {
 	font-size: 32px;
 	margin: 0 10px;
-	color: rgba(57,229,57, 1);
+	color: rgba(33, 119, 33, 1);
 }
 .contact ul li {
 	margin-bottom: 10px;
